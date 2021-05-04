@@ -1,0 +1,103 @@
+header {
+background-color:#132c33 ;
+
+padding : 50px ;
+
+
+
+}
+
+header nav ul li {
+
+    display: inline;
+
+    padding: 40px;
+
+}
+
+header nav ul li a{
+
+text-decoration: none;
+color: #d8e3e7;
+font-family : Helvetica;
+float :center;
+padding: 3px;
+font-size :25px;
+display :inline;
+
+}
+
+header img{
+    display: block;
+ 
+    /* padding-left: 1px;
+    padding-right: 50px; */
+    float: left;
+    margin-left: 213px;
+    padding-top: 0px;
+}
+
+#firstItem{
+
+    margin-left: 265px;
+    padding-top: 20px;
+}
+.secondItem{
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.thirdItem{
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+article img{
+    margin-left: 265px;
+    padding-top: 20px;
+}
+
+div img{
+    margin-left: 265px;
+    padding-top: 20px;
+}
+div h2 {
+    padding-left: 850px ;
+    position :absolute;
+    color: #126e82;
+    font-size: 40px;
+    font-family: Helvetica;
+    font-weight: bold;
+    width: 75%;
+    float: left;
+    top: 1030px;
+}
+
+div p{
+    padding-left: 800px ;
+    position :absolute;
+    color: #126e82;
+    font-size: 23px;
+    font-family: Helvetica;
+    font-weight: bold;
+    width: 70%;
+    float: left;
+    top: 1070px;
+    text-align: justify;
+}
+
+body{
+    background-color: #d8e3e7;
+}
+div input{
+    margin-top: 15px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+}
+footer{
+    background-color:#132c33 ;
+
+padding : 50px ;
+margin-top: 20px;
+
+
+}
